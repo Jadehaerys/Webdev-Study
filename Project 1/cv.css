@@ -11,9 +11,12 @@
   }
   hr {
     color: orange;
-    border-style: double;
-    border-width: 3px;
-
+    border-top: dotted 1px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-width: 10px;
+    width: 7%;
   }
   body{
     background-color: mediumspringgreen;
