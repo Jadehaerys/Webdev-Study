@@ -11,10 +11,7 @@
   }
   hr {
     color: orange;
-    border-top: dotted 1px;
-    border-bottom: none;
-    border-left: none;
-    border-right: none;
+    border-style: dotted none none none;
     border-width: 10px;
     width: 7%;
   }
