@@ -10,6 +10,13 @@
     border: 1px solid black;
   }
   hr {
-    color: rgb(230, 247, 0);
+    color: orange;
+    border-style: double;
+    border-width: 3px;
+
+  }
+  body{
+    background-color: mediumspringgreen;
+  
 
   }
