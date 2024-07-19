@@ -16,10 +16,13 @@
     width: 7%;
   }
   body{
-    background-color: rgb(134, 248, 204);
+    background-color: rgb(227, 252, 242);
   
 
   }
-.table1 h1 {
-    color: orange;
+ h1 {
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
   }
