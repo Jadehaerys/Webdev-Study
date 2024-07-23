@@ -3,6 +3,9 @@
     padding-left: 50%;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: solid 5px;
+    border-color: rgb(212, 180, 119);
+
 }
 #head h1{
     margin-top: 0%;
