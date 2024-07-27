@@ -36,3 +36,7 @@ body{
     right: 300px;
     top: 50px;
 }
+#profilep{
+    border-radius: 50%;
+    width: 11%;
+}
