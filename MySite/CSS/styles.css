@@ -79,4 +79,8 @@ body{
     width: 20%;
     height: 20%;
 }
+.skill-row{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
 
