@@ -17,14 +17,21 @@ h1{
     font-weight: 600;
     font-style: normal;
     font-size: 5.625rem;
+    color: #66BFBF;
 }
 h2{
     font-family: "Montserrat", sans-serif;
     font-size: 2rem;
+   color: #66BFBF;
 
 }
 h3{
     font-family: "Montserrat", sans-serif;
+    color: #11999E;
+}
+a{
+
+    color: #11999E;
 }
 body{
     margin: 0 0 0;
@@ -70,3 +77,4 @@ body{
     width: 20%;
     height: 20%;
 }
+
