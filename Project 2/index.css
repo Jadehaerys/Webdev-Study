@@ -8,10 +8,9 @@
     font-weight: 500;
     color: white;
 }
+.nav-item:hover{
+    font-size: large;
+}
 nav{
     background-color: black;
-}
-.col{
-    background-color: black;
-    color: white;
 }
