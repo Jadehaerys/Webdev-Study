@@ -17,3 +17,11 @@ nav{
 #title{
 background-color:rgba(5, 5, 5, 0.911);
 }
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3rem;
+    line-height: 1.5;
+}
