@@ -69,11 +69,12 @@ body{
 /* Features*/
 #features{
     background-color: rgb(255, 255, 255);
-    padding-bottom: 4.5rem;
+    padding: 7% 15%;
     text-align: center;
 }
 .features-icn{
-padding-bottom: 10%;
+margin-bottom: 1rem;
+color: red;
 }
 h3{
     font-family: "Montserrat", sans-serif;
@@ -84,4 +85,7 @@ h3{
 }
 #features-p{
     color: #8f8f8f;
+}
+.features-icn:hover{
+    color: rgb(102, 18, 18);
 }
