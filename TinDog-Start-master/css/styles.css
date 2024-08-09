@@ -69,11 +69,11 @@ body{
 /* Features*/
 #features{
     background-color: rgb(255, 255, 255);
-    padding: 7% 15%;
+    padding: 5% 15%;
     text-align: center;
 }
 .features-icn{
-margin-bottom: 1rem;
+margin-bottom: 2.5rem;
 color: red;
 }
 h3{
