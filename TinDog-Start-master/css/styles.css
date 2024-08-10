@@ -56,6 +56,14 @@ h1{
     font-size: 3.5rem;
     line-height: 1.5;
 }
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3rem;
+    line-height: 1.5;
+}
 body{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -67,6 +75,7 @@ body{
     padding-left: 5%;
 }
 /* Features*/
+
 #features{
     background-color: rgb(255, 255, 255);
     padding: 5% 15%;
@@ -88,4 +97,28 @@ h3{
 }
 .features-icn:hover{
     color: rgb(102, 18, 18);
+}
+/* Testimonials*/
+
+#testimonials{
+    padding: 5% 15%;
+    text-align: center;
+    background-color: rgb(247, 87, 87);
+    color: white;
+
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* Press*/
+#press{
+    background-color: rgb(247, 87, 87);
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-images{
+    width: 15%;
+    margin: 20px 20px 50px;
 }
