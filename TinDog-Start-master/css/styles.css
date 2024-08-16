@@ -130,3 +130,12 @@ h3{
 #pricing{
     padding: 5% 15%;
 }
+/* CTA*/
+
+#cta{
+    padding: 5% 15%;
+    text-align: center;
+    background-color: rgb(247, 87, 87);
+    color: white;
+
+}
