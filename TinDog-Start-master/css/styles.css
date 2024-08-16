@@ -139,3 +139,11 @@ h3{
     color: white;
 
 }
+/* Footer */ 
+#footer{
+    padding: 5% 15%;
+    text-align: center;
+}
+.fa-footer{
+    margin: 3% 3%;
+}
