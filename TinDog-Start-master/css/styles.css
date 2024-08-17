@@ -1,23 +1,8 @@
 
-h1{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: bold;
-    font-style: normal;
-}
-h2{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: normal;
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
 h1,h2,h3,h4,h5,h6{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 900;
+    font-weight: bold;
     font-style: normal;
 }
 
@@ -29,12 +14,17 @@ body{
 }
 /*headings*/
 
-big-heading{
+.big-heading{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
     font-size: 3.5rem;
+    line-height: 1.5;
+}
+.price-style{
+    font-style: normal;
+    font-size: 3rem;
     line-height: 1.5;
 }
 /*Navigation Bar*/
