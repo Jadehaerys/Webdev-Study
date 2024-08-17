@@ -1,10 +1,9 @@
+
 h1{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
-    font-size: 3.5rem;
-    line-height: 1.5;
 }
 h2{
     font-family: "Montserrat", sans-serif;
@@ -14,15 +13,30 @@ h2{
     font-size: 3rem;
     line-height: 1.5;
 }
-body{
+
+h1,h2,h3,h4,h5,h6{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 900;
     font-style: normal;
 }
 
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+/*headings*/
 
-
+big-heading{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
 /*Navigation Bar*/
 .navbar{
     padding: 0 0 4.5rem;
