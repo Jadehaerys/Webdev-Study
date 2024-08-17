@@ -1,3 +1,28 @@
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
 /*Navigation Bar*/
 .navbar{
     padding: 0 0 4.5rem;
@@ -49,28 +74,7 @@ padding-bottom: 10%;
 #title{
 background-color:black;
 }
-h1{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: bold;
-    font-style: normal;
-    font-size: 3.5rem;
-    line-height: 1.5;
-}
-h2{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: normal;
-    font-size: 3rem;
-    line-height: 1.5;
-}
-body{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: normal;
-}
+
 .row{
     padding-top: 4.5rem;
     padding-left: 5%;
